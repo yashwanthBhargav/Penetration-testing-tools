@@ -1,0 +1,373 @@
+1506593863587	geckodriver	INFO	Listening on 127.0.0.1:32897
+1506593865711	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506593870766	Marionette	INFO	Listening on port 40351
+1506593871113	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1585] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 1585] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1506593907497	geckodriver	INFO	Listening on 127.0.0.1:57439
+1506593908596	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506593910449	Marionette	INFO	Listening on port 36463
+1506593910539	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1712] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 1712] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 1712] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1506594180282	geckodriver	INFO	Listening on 127.0.0.1:43333
+1506594181387	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506594183157	Marionette	INFO	Listening on port 39095
+1506594183241	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1842] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 1842] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1506594228331	geckodriver	INFO	Listening on 127.0.0.1:35109
+1506594229432	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506594231215	Marionette	INFO	Listening on port 40973
+1506594231303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506594292582	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1508741425118	geckodriver	INFO	Listening on 127.0.0.1:58099
+1508741426351	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1508741428299	Marionette	INFO	Listening on port 42939
+1508741428495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508741490899	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 106: TypeError: this._recipeManager is null
+console.error: 
+  Message: Error: Source map at https://hackmethod.com/wp-content/themes/shapely/assets/css/bootstrap.min.css.map not found or invalid
+  Stack:
+    StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:557:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:557:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+console.error: 
+  Protocol error (unknownError): Source map at https://hackmethod.com/wp-content/themes/shapely/assets/css/bootstrap.min.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://hackmethod.com/wp-content/themes/shapely/assets/css/bootstrap.min.css.map not found or invalid
+  Stack:
+    StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:557:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:557:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+console.error: 
+  Protocol error (unknownError): Source map at https://hackmethod.com/wp-content/themes/shapely/assets/css/bootstrap.min.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://hackmethod.com/wp-content/themes/shapely/assets/css/bootstrap.min.css.map not found or invalid
+  Stack:
+    StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:557:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+StyleSheetActor<._fetchSourceMap/</map<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/stylesheets.js:557:27
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+console.error: 
+  Protocol error (unknownError): Source map at https://hackmethod.com/wp-content/themes/shapely/assets/css/bootstrap.min.css.map not found or invalid
+
+(firefox-esr:2602): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/CertUtils.jsm, line 171: NS_ERROR_ABORT: Certificate issuer is not built-in.
+1508748261089	geckodriver	INFO	Listening on 127.0.0.1:46641
+1508748262218	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1508748264215	Marionette	INFO	Listening on port 36761
+1508748264311	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4001] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 4001] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1508748285386	geckodriver	INFO	Listening on 127.0.0.1:59179
+1508748286512	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1508748288536	Marionette	INFO	Listening on port 40921
+1508748288633	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4125] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 4125] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1508748385306	geckodriver	INFO	Listening on 127.0.0.1:40745
+1508748386432	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1508748388362	Marionette	INFO	Listening on port 46107
+1508748388459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508748401436	geckodriver	INFO	Listening on 127.0.0.1:59007
+1508748402558	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1508748405000	Marionette	INFO	Listening on port 45993
+1508748405111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508748417990	geckodriver	INFO	Listening on 127.0.0.1:52569
+1508748419122	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1508748421015	Marionette	INFO	Listening on port 46689
+1508748421119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508748433920	geckodriver	INFO	Listening on 127.0.0.1:34463
+1508748435041	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1508748436968	Marionette	INFO	Listening on port 39797
+1508748437081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508748449596	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1508748449990	geckodriver	INFO	Listening on 127.0.0.1:50855
+1508748451116	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1508748452941	Marionette	INFO	Listening on port 38815
+1508748453051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508748465959	geckodriver	INFO	Listening on 127.0.0.1:53567
+1508748466229	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1508748467079	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1508748469028	Marionette	INFO	Listening on port 33121
+1508748469131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508748482028	geckodriver	INFO	Listening on 127.0.0.1:56987
+1508748482182	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1508748483157	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1508748485034	Marionette	INFO	Listening on port 42571
+1508748485138	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5013] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 5013] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 4509] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 4509] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 4509] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 4627] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 4627] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4265] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 4265] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4755] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 4755] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 4755] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 4882] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 4882] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 4882] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 4386] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 4386] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1509018365099	geckodriver	INFO	Listening on 127.0.0.1:38583
+1509018367031	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509018372169	Marionette	INFO	Listening on port 43451
+1509018372544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509018435180	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1509018460045	geckodriver	INFO	Listening on 127.0.0.1:51083
+1509018461145	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509018462953	Marionette	INFO	Listening on port 41723
+1509018463066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509018525837	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1509353409845	geckodriver	INFO	Listening on 127.0.0.1:41867
+1509353410995	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509353412959	Marionette	INFO	Listening on port 38611
+1509353413143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509353436090	geckodriver	INFO	Listening on 127.0.0.1:35599
+1509353437216	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509353439415	Marionette	INFO	Listening on port 41377
+1509353439506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509353475463	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1509353501812	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1509353815888	geckodriver	INFO	Listening on 127.0.0.1:34481
+1509353816994	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509353818812	Marionette	INFO	Listening on port 33961
+1509353818910	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22348] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 22348] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-KT8g23/firefox-esr-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1509354351650	geckodriver	INFO	Listening on 127.0.0.1:34415
+1509354352756	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509354354604	Marionette	INFO	Listening on port 43405
+1509354354693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509354403763	geckodriver	INFO	Listening on 127.0.0.1:44217
+1509354404869	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509354406623	Marionette	INFO	Listening on port 39941
+1509354406711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509354469153	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1509518313060	geckodriver	INFO	Listening on 127.0.0.1:39849
+1509518314360	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509518316226	Marionette	INFO	Listening on port 39733
+1509518316406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509518378579	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1509518392094	geckodriver	INFO	Listening on 127.0.0.1:38579
+1509518393228	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509518394974	Marionette	INFO	Listening on port 33185
+1509518395081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509518424629	geckodriver	INFO	Listening on 127.0.0.1:59229
+1509518425731	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509518427602	Marionette	INFO	Listening on port 46065
+1509518427694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509518457352	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1509518478854	geckodriver	INFO	Listening on 127.0.0.1:59705
+1509518479949	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509518481656	Marionette	INFO	Listening on port 45335
+1509518481761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509518489861	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1509518544158	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/CertUtils.jsm, line 171: NS_ERROR_ABORT: Certificate issuer is not built-in.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/CertUtils.jsm, line 171: NS_ERROR_ABORT: Certificate issuer is not built-in.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/CertUtils.jsm, line 171: NS_ERROR_ABORT: Certificate issuer is not built-in.
+1509699274387	geckodriver	INFO	Listening on 127.0.0.1:47629
+1509699275497	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509699277379	Marionette	INFO	Listening on port 46377
+1509699277471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509699299728	geckodriver	INFO	Listening on 127.0.0.1:46319
+1509699300841	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509699302914	Marionette	INFO	Listening on port 35481
+1509699303006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509699329822	geckodriver	INFO	Listening on 127.0.0.1:38739
+1509699330926	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509699332689	Marionette	INFO	Listening on port 33065
+1509699332780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509699490408	geckodriver	INFO	Listening on 127.0.0.1:38017
+1509699491537	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509699493394	Marionette	INFO	Listening on port 35037
+1509699493487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509713421505	geckodriver	INFO	Listening on 127.0.0.1:47045
+1509713422629	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509713424301	Marionette	INFO	Listening on port 38953
+1509713424392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509713448265	geckodriver	INFO	Listening on 127.0.0.1:56037
+1509713449391	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509713451243	Marionette	INFO	Listening on port 41117
+1509713451352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509713485697	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1509713512580	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1509967503613	geckodriver	INFO	Listening on 127.0.0.1:44253
+1509967504719	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509967506580	Marionette	INFO	Listening on port 32821
+1509967506688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509967553270	geckodriver	INFO	Listening on 127.0.0.1:35943
+1509967554422	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509967556350	Marionette	INFO	Listening on port 44329
+1509967556450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509967625635	geckodriver	INFO	Listening on 127.0.0.1:55049
+1509967626750	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509967628577	Marionette	INFO	Listening on port 37291
+1509967628670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509967655807	geckodriver	INFO	Listening on 127.0.0.1:59485
+1509967656913	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509967658865	Marionette	INFO	Listening on port 35745
+1509967658968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509967695781	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1509967728111	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1509968401475	geckodriver	INFO	Listening on 127.0.0.1:54451
+1509968402582	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509968404296	Marionette	INFO	Listening on port 35875
+1509968404397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509968439984	geckodriver	INFO	Listening on 127.0.0.1:42207
+1509968441093	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509968442923	Marionette	INFO	Listening on port 39517
+1509968443015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://stackoverflow.com/questions/4266566/stardand-context-menu-in-python-tkinter-text-widget-when-mouse-right-button-is-p, line 1: ReferenceError: osdlfm is not defined
+1509968459912	geckodriver	INFO	Listening on 127.0.0.1:52777
+1509968461041	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1509968462998	Marionette	INFO	Listening on port 46505
+1509968463097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509968504082	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1509968525291	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/CertUtils.jsm, line 171: NS_ERROR_ABORT: Certificate issuer is not built-in.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9A0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
