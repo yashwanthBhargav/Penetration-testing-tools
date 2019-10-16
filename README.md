@@ -1,4 +1,4 @@
-# GUI for Webapplication penetration testing tools
+# Webapplication penetration testing tools with basic GUI
 Automated Webapplication penetration testing tools
 
  Works with only python 2.X
